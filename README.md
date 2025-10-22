@@ -39,3 +39,40 @@ Example: In a checkout page wireframe, the total price and “Proceed to Payment
 Functionality represents interactive elements that define how users will engage with the interface. These include buttons, dropdowns, search bars, and other input fields.
 Example: A “Filter by Date” dropdown on the booking page allows users to narrow down search results efficiently, improving usability and user satisfaction.
 
+**Types of Wireframes**
+
+Wireframes come in different levels of detail, depending on the stage of the design process and the purpose they serve. The two main types are Low-Fidelity and High-Fidelity wireframes.
+
+1. Low-Fidelity Wireframes
+
+Low-fidelity wireframes are simple sketches or digital outlines that focus on the basic layout and structure of a page. They avoid detailed styling, colors, or images, using only simple shapes, boxes, and labels to represent content.
+When to Use:
+
+During the early stages of design to brainstorm ideas and map out page structure.
+
+When the goal is to quickly explore different layout options or get initial feedback.
+
+Example: A hand-drawn wireframe or a black-and-white digital sketch showing only placeholders for text and images, without specific styling.
+
+2. High-Fidelity Wireframes
+
+High-fidelity wireframes are more detailed and closer to the final product. They often include accurate spacing, real text, buttons, icons, and even color elements to demonstrate how the final interface will look and behave.
+When to Use:
+
+During the later stages of design, once the structure has been finalized.
+
+When presenting to stakeholders or developers to show near-final interactions and design flow.
+
+Example: A polished digital wireframe made using tools like Figma or Adobe XD that includes realistic buttons, input fields, and navigation menus.
+
+**Type of Wireframe Used Here**
+
+The wireframe used in this project is a Low-Fidelity Wireframe.
+It focuses on the basic layout, structure, and key interface elements of the booking management system without adding visual design details such as colors, fonts, or images. This approach helps to:
+
+Clearly define page hierarchy and flow before moving into high-fidelity design.
+
+Gather early feedback from stakeholders and teammates.
+
+Save time and resources by refining structure before detailed design begins.
+
